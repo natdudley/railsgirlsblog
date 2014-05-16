@@ -3,7 +3,7 @@ title: Your awesome title
 email: your-email@domain.com
 description: "The blog for Rails Girls Auckland."
 baseurl: ""
-url: "http://railsgirls.com/auckland"
+url: "http://natdudley.github.io/railsgirlsblog/"
 
 # Build settings
 markdown: kramdown

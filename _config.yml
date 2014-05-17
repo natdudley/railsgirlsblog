@@ -3,7 +3,7 @@ title: Rails Girls Auckland
 email: railsgirlsauckland@gmail.com
 description: "The blog for Rails Girls Auckland."
 baseurl: ""
-url: "http://natdudley.github.io/railsgirlsblog/"
+url: ""
 
 # Build settings
 markdown: kramdown

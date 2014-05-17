@@ -4,7 +4,8 @@ email: railsgirlsauckland@gmail.com
 description: "The blog for Rails Girls Auckland."
 baseurl: "/railsgirlsblog"
 url: ""
-
+username: railsgirlsakl
+usernamegh: railsgirlsauckland
 # Build settings
 markdown: kramdown
 permalink: pretty

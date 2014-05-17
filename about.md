@@ -16,3 +16,10 @@ The first Auckland event is on the 4th-5th July 2014. You can [read more here](h
 
 If you'd like to help us by coaching, volunteering, or sponsoring Rails Girls, email us at <railsgirlsauckland@gmail.com>
 
+We're also [on Twitter](http://twitter.com/railsgirlsakl).
+
+Rails Girls Auckland is run by:
+
+- Nat Dudley [@natdudley](http://twitter.com/natdudley)
+- Maria Neisa [@mayaneise](http://twitter.com/mayaneise)
+

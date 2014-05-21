@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Rails Girls Helsinki Video"
+date:   2014-05-17 10:41:17
+categories: events
+---
+
+Our friends at Rails Girls Helsinki made a great video to showcase their Rails Girls event. Check it out!
+
+<iframe src="//player.vimeo.com/video/17752439" width="800" height="451" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>

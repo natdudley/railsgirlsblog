@@ -226,6 +226,11 @@ a:visited { color: #205caa; }
 
 .post-content ul,
 .post-content ol { padding-left: 20px; }
+.post-content img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
 
 .post pre,
 .post code {

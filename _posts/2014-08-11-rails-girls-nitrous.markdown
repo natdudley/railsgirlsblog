@@ -11,7 +11,7 @@ Before running our Rails Girls event, our organising team were extremely lucky t
 
 We learned a lot from the amazing job the Wellington team did. This meant when it came to our event, we were able to try something a little different.
 
-<iframe src="https://www.flickr.com/photos/125849405@N04/14681201862/player/" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+![railsgirls auckland intro](images/rgakl.jpg)
 
 ##Background
 

@@ -11,7 +11,7 @@ Before running our Rails Girls event, our organising team were extremely lucky t
 
 We learned a lot from the amazing job the Wellington team did. This meant when it came to our event, we were able to try something a little different.
 
-![railsgirls auckland intro](http://natdudley.github.io/railsgirlsblog/events/2014/08/11/rails-girls-nitrous/images/rgakl.jpg)
+![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rgakl.jpg)
 
 ##Background
 
@@ -21,7 +21,7 @@ Recently, the cloud technology field has expanded to include software developmen
 
 These tools enabled us to try running our Rails Girls event a little differently; we could skip the installation time altogether, and instead, spend that time providing a more thorough introduction to coding, with more talks and more time to spend in workshops.
 
-![railsgirls auckland intro]({{ site.url }}/images/rg1.jpg)
+![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rg1.jpg)
 
 In addition to this, Rails Girls events typically run using the standard training material on the railsgirls.com website. The Rails Girls team worldwide have done a great job creating material that allows anyone to pick it up and run an event anywhere in the world, however, it relies on the coaches spending a lot of time explaining concepts.
 
@@ -37,7 +37,7 @@ For our event, we tried three things:
 
 ###Benefits of using Nitrous.io
 
-![railsgirls auckland intro]({{ site.url }}/images/rg2.jpg)
+![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rg2.jpg)
 
 ####Attendee diversity
 
@@ -49,13 +49,13 @@ We were also able to accept students who had no laptop, and arrange loan laptops
 
 Usually, in a 1.5 day Rails Girls workshop, there's simply not enough hours to get through everything you want to do. We were able to add in a great talk from one of our coaches introducing students to programming basics (it even included demonstrations of loops and arrays using animated bunny rabbits!) We also had time to run streamed workshops to finish the event: a front-end workshop and an advanced Ruby workshop, which allowed our students to explore more aspects of coding.
 
-![railsgirls auckland intro]({{ site.url }}/images/rg3.jpg)
+![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rg3.jpg)
 
 ####More welcoming and fun!
 
 For most of us, setting up a local dev environment is tedious at best. For someone new to coding, it's a terrible first impression. We get them all excited about learning to make amazing things...and then we get them to spend hours installing the tools to let them do it. Using Nitrous.io removed this entirely. Our students kicked of with the programming basics talk, and then, as teams, learned to program a "robot" (their coach) through a maze to get_cupcake. Our students left the first afternoon enthusiastic and excited, and with some solid programming basics under their belt. 
 
-![railsgirls auckland intro]({{ site.url }}/images/rg4.jpg)
+![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rg4.jpg)
 
 ##How did it go?
 
@@ -79,7 +79,7 @@ Negatives:
 - Coaches less familiar with the in-browser development style
 - Our front-end workshop involved a lot of CSS changes. Nitrous caches CSS, which meant students needed to take extra steps to clear the cache when they updated CSS.
 
-![railsgirls auckland intro]({{ site.url }}/images/rg5.jpg)
+![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rg5.jpg)
 
 ###Would we do it again?
 

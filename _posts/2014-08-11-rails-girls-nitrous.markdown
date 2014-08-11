@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Rails Girls experiment: Nitrous.io and Reveal.js"
-date:   2014-05-17 10:41:17
+date:   2014-08-11 23:22:10
 categories: events
 ---
 

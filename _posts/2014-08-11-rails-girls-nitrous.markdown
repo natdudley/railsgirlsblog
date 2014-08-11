@@ -5,7 +5,7 @@ date:   2014-08-11 23:22:10
 categories: events
 ---
 
-#A Rails Girls experiment: Nitrous.io and Reveal.js
+#A Rails Girls experiment: [Nitrous.io](https://nitrous.io) and Reveal.js
 
 Before running our Rails Girls event, our organising team were extremely lucky to experience Rails Girls events first-hand. Nat attended Rails Girls Wellington 2013 as a student, and both she and Maria helped out at the Wellington 2014 event.
 
@@ -31,7 +31,7 @@ For many students, asking for more explanations is intimidating, especially on t
 
 For our event, we tried three things:
 
-1. Using Nitrous.io, one of the pioneers in the Cloud IDE space. It's a freemium tool (you can create one app at a time for free).
+1. Using [Nitrous.io](https://nitrous.io), one of the pioneers in the Cloud IDE space. It's a freemium tool (you can create one app at a time for free).
 2. Integrating the explanations from the coaches guide (and other great Rails resources around the web) into the student training material, so all students got explanations as they learned.
 3. Formatting the code as an online presentation, using Reveal.js. This allowed students to focus on a single step at a time, and scroll down for more explanations if they were needed.
 

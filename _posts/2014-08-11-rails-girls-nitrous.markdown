@@ -15,15 +15,15 @@ We learned a lot from the amazing job the Wellington team did. This meant when i
 
 ##Background
 
-Typically, a Rails Girls event starts with an installation party. Our students few hours of their time with us installing a text editor and a local installation of Rails. With Rails Girls events being short on time, this takes up valuable hours that could be spent learning.
+Typically, a Rails Girls event starts with an installation party. Our students spend the first few hours of their time with us installing a text editor and a local installation of Rails. With Rails Girls events being short on time, this takes up valuable hours that could be spent learning.
 
-Recently, the cloud technology field has expanded to include software development IDEs. These tools enable developers to skip the set-up and get straight to coding. They provide many things a developer needs, and all in the browser. This includes command line and the ability to store your code on GitHub.
+Recently, the cloud technology field has expanded to include software development IDEs. These tools enable developers to skip the set-up and get straight to coding. They provide many of tools a developer needs and it's all in their browser. This includes command line and the ability to store your code on GitHub.
 
-These tools enabled us to try running our Rails Girls event a little differently; we could skip the installation time altogether, and instead, spend that time providing a more thorough introduction to coding, with more talks and more time to spend in workshops.
+These tools enabled us to try running our Rails Girls event a little differently; we could skip the installation time altogether. Instead, we could spend that time providing a more thorough introduction to coding, with more talks and more time to spend in workshops.
 
 ![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rg1.jpg)
 
-In addition to this, Rails Girls events typically run using the standard training material on the railsgirls.com website. The Rails Girls team worldwide have done a great job creating material that allows anyone to pick it up and run an event anywhere in the world, however, it relies on the coaches spending a lot of time explaining concepts.
+In addition to this, Rails Girls events typically run using the standard training material on the railsgirls.com website. The Rails Girls team worldwide have done a great job creating material that allows anyone to pick it up and run an event anywhere in the world. However, it relies on the coaches spending a lot of time explaining concepts.
 
 For many students, asking for more explanations is intimidating, especially on top of trying to learn to code for the first time. This meant that some students were just following the directions, but not understanding what they were doing.
 
@@ -59,9 +59,9 @@ For most of us, setting up a local dev environment is tedious at best. For someo
 
 ##How did it go?
 
-The proof of the pudding is in the cooking; it's all very well to try something out, but did it work out?
+It's all very well to try something out, but did it work?
 
-The feedback we received from students was overwhelmingly positive. They loved being able to dive right in and start learning straight away. An added benefit was the inbuilt previewing provided the students with a URL they could share with family and friends as they learned. Their friends and families could follow along at home, and see what our students were building.
+The feedback we received from students was overwhelmingly positive. They loved being able to dive right in and start learning straight away. An added benefit came from the inbuilt previewing. This provided the students with a URL they could share with family and friends as they learned. They could follow along at home and see what our students were building.
 
 Positives:
 
@@ -83,7 +83,7 @@ Negatives:
 
 ###Would we do it again?
 
-Absolutely. The extra time to learn and the more user-friendly introduction was invaluable. We'd probably ask students to set up both their Nitrous.io account and their GitHub account before the workshop, so the issue with linking the two was avoided.
+Absolutely. The extra time to learn and the more user-friendly introduction were invaluable. We'd probably ask students to set up both their Nitrous.io account and their GitHub account before the workshop, so the issue with linking the two was avoided.
 
 The caching issue was the only real drawback. If not fixed, we'd simply update the instructions to explain how to clear cache.
 

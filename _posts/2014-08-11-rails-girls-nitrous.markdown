@@ -11,7 +11,7 @@ Before running our Rails Girls event, our organising team were extremely lucky t
 
 We learned a lot from the amazing job the Wellington team did. This meant when it came to our event, we were able to try something a little different.
 
-![railsgirls auckland intro]({{ site.url }}/images/rgakl.jpg)
+![railsgirls auckland intro](http://natdudley.github.io/railsgirlsblog/events/2014/08/11/rails-girls-nitrous/images/rgakl.jpg)
 
 ##Background
 

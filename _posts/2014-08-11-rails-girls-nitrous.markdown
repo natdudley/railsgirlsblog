@@ -5,8 +5,6 @@ date:   2014-08-11 23:22:10
 categories: events
 ---
 
-#A Rails Girls experiment: [Nitrous.io](https://nitrous.io) and Reveal.js
-
 Before running our Rails Girls event, our organising team were extremely lucky to experience Rails Girls events first-hand. Nat attended Rails Girls Wellington 2013 as a student, and both she and Maria helped out at the Wellington 2014 event.
 
 We learned a lot from the amazing job the Wellington team did. This meant when it came to our event, we were able to try something a little different.
@@ -35,13 +33,13 @@ For our event, we tried three things:
 2. Integrating the explanations from the coaches guide (and other great Rails resources around the web) into the student training material, so all students got explanations as they learned.
 3. Formatting the code as an online presentation, using Reveal.js. This allowed students to focus on a single step at a time, and scroll down for more explanations if they were needed.
 
-###Benefits of using Nitrous.io
+###Benefits of using [Nitrous.io](https://nitrous.io)
 
 ![railsgirls auckland intro](https://raw.githubusercontent.com/natdudley/railsgirlsblog/master/images/rg2.jpg)
 
 ####Attendee diversity
 
-Using Nitrous.io gave us several advantages. Firstly, we could accept students who used Chromebooks or Netbooks, or who only had school or work laptops where they could not install Rails locally. 
+Using [Nitrous.io](https://nitrous.io) gave us several advantages. Firstly, we could accept students who used Chromebooks or Netbooks, or who only had school or work laptops where they could not install Rails locally. 
 
 We were also able to accept students who had no laptop, and arrange loan laptops for them. Because Nitrous.io is all in the cloud, these students could go home and continue to build their app on their desktop computer just by logging in.
 
